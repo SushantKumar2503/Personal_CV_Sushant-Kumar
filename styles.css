@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+ }
+ hr{
+    background-color: white;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+ }
+ img{
+    height: 100px;
+    width: 80px;
+ }
+ h1{
+    color: #66BF6F;
+ }
+ h3{
+    color: #66BF6F;
+ }
+ p{
+    color: red;
+ }
